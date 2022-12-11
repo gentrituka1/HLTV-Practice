@@ -1,0 +1,10 @@
+.App{
+  height: 100vh;
+  display: grid;
+  grid-template: 
+  "header" 70px
+  "main" auto
+  "footer" auto /
+  auto ;
+}
+
